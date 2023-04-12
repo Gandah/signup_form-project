@@ -166,9 +166,9 @@ footer{
     border-radius: 0.25rem;
     border-color: hsla(0, 0%, 13%, 0.3);
     border-width: 0.02rem;
+    border-style: solid;
     transition: box-shadow 300ms ease-in-out;
-
-    
+ 
 }
 
 /*class to be added for warning decoration */
@@ -182,6 +182,7 @@ footer{
     border-radius: 0.25rem;
     border-color: var(--primary-color);
     border-width: 0.02rem;
+    border-style: solid;
     transition: box-shadow 300ms ease-in-out;
   
 }
