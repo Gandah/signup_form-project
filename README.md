@@ -1,19 +1,18 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Frontend Mentor - Intro component with sign up form solution](#frontend-mentor---intro-component-with-sign-up-form-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+  - [Author](#author)
 
 ## Overview
 
@@ -29,14 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots)
-
-
+![Desktop-view](./screenshots/screenshot-1.png)
+![Active-states](./screenshots/screenshot-2.png)
+![Mobile-view](./screenshots/screenshot-mobile.png)
 
 ### Links
 
-
-- Live Site URL: https://gandah.github.io/signup_form-project/
+- Live Site URL: [sign-up form](https://gandah.github.io/signup_form-project/)
 
 ## My process
 
@@ -47,13 +45,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
 
-
-```
+```js
 //How to use regex to detect email addresses in input fields 
 let validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
     if (id === 'email') {
@@ -74,12 +70,7 @@ let validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9
     }
 ```
 
-
-
-
 ## Author
-
 
 - Frontend Mentor - [@Gandah](https://www.frontendmentor.io/profile/Gandah)
 - Twitter - [@mr_g4nderson](https://twitter.com/mr_g4nderson?t=A5NobjZab2sVEdh3Zq9s0A&s=09)
-
